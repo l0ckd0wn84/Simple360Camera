@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>NSCameraUsageDescription</key>
+  <string>Simple 360 Camera uses the camera to capture the photos for your panorama.</string>
+  <key>NSMotionUsageDescription</key>
+  <string>Simple 360 Camera uses motion sensors to guide your rotation.</string>
+  <key>NSPhotoLibraryAddUsageDescription</key>
+  <string>Simple 360 Camera saves finished panoramas to your Photos library.</string>
+</dict>
+</plist>
