@@ -3,37 +3,37 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 77;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A000010001 /* Simple360CameraApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000020001 /* Simple360CameraApp.swift */; };
-		A000010002 /* CaptureModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000020002 /* CaptureModel.swift */; };
-		A000010003 /* CameraService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000020003 /* CameraService.swift */; };
-		A000010004 /* CameraPreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000020004 /* CameraPreview.swift */; };
-		A000010005 /* MotionGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000020005 /* MotionGuide.swift */; };
-		A000010006 /* PanoramaStitcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000020006 /* PanoramaStitcher.swift */; };
-		A000010007 /* PanoramaMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000020007 /* PanoramaMetadata.swift */; };
-		A000010008 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A000020008 /* ContentView.swift */; };
-		A000010009 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A000020010 /* Assets.xcassets */; };
+		100000000000000000000001 /* Simple360CameraApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100000000000000000000101 /* Simple360CameraApp.swift */; };
+		100000000000000000000002 /* CaptureModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100000000000000000000102 /* CaptureModel.swift */; };
+		100000000000000000000003 /* CameraService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100000000000000000000103 /* CameraService.swift */; };
+		100000000000000000000004 /* CameraPreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100000000000000000000104 /* CameraPreview.swift */; };
+		100000000000000000000005 /* MotionGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100000000000000000000105 /* MotionGuide.swift */; };
+		100000000000000000000006 /* PanoramaMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100000000000000000000106 /* PanoramaMetadata.swift */; };
+		100000000000000000000007 /* PanoramaStitcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100000000000000000000107 /* PanoramaStitcher.swift */; };
+		100000000000000000000008 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100000000000000000000108 /* ContentView.swift */; };
+		100000000000000000000009 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 100000000000000000000110 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A000020001 /* Simple360CameraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simple360CameraApp.swift; sourceTree = "<group>"; };
-		A000020002 /* CaptureModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureModel.swift; sourceTree = "<group>"; };
-		A000020003 /* CameraService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraService.swift; sourceTree = "<group>"; };
-		A000020004 /* CameraPreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPreview.swift; sourceTree = "<group>"; };
-		A000020005 /* MotionGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionGuide.swift; sourceTree = "<group>"; };
-		A000020006 /* PanoramaStitcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PanoramaStitcher.swift; sourceTree = "<group>"; };
-		A000020007 /* PanoramaMetadata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PanoramaMetadata.swift; sourceTree = "<group>"; };
-		A000020008 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A000020009 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A000020010 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A000020011 /* Simple360Camera.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Simple360Camera.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		100000000000000000000101 /* Simple360CameraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simple360CameraApp.swift; sourceTree = "<group>"; };
+		100000000000000000000102 /* CaptureModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptureModel.swift; sourceTree = "<group>"; };
+		100000000000000000000103 /* CameraService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraService.swift; sourceTree = "<group>"; };
+		100000000000000000000104 /* CameraPreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPreview.swift; sourceTree = "<group>"; };
+		100000000000000000000105 /* MotionGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionGuide.swift; sourceTree = "<group>"; };
+		100000000000000000000106 /* PanoramaMetadata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PanoramaMetadata.swift; sourceTree = "<group>"; };
+		100000000000000000000107 /* PanoramaStitcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PanoramaStitcher.swift; sourceTree = "<group>"; };
+		100000000000000000000108 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		100000000000000000000109 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		100000000000000000000110 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		100000000000000000000111 /* Simple360Camera.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Simple360Camera.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A000030003 /* Frameworks */ = {
+		100000000000000000000301 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -43,36 +43,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A000040001 = {
+		100000000000000000000401 = {
 			isa = PBXGroup;
 			children = (
-				A000040002 /* Simple360Camera */,
-				A000040003 /* Products */,
+				100000000000000000000402 /* Simple360Camera */,
+				100000000000000000000403 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A000040002 /* Simple360Camera */ = {
+		100000000000000000000402 /* Simple360Camera */ = {
 			isa = PBXGroup;
 			children = (
-				A000020001 /* Simple360CameraApp.swift */,
-				A000020002 /* CaptureModel.swift */,
-				A000020003 /* CameraService.swift */,
-				A000020004 /* CameraPreview.swift */,
-				A000020005 /* MotionGuide.swift */,
-				A000020006 /* PanoramaStitcher.swift */,
-				A000020007 /* PanoramaMetadata.swift */,
-				A000020008 /* ContentView.swift */,
-				A000020009 /* Info.plist */,
-				A000020010 /* Assets.xcassets */,
+				100000000000000000000101 /* Simple360CameraApp.swift */,
+				100000000000000000000102 /* CaptureModel.swift */,
+				100000000000000000000103 /* CameraService.swift */,
+				100000000000000000000104 /* CameraPreview.swift */,
+				100000000000000000000105 /* MotionGuide.swift */,
+				100000000000000000000106 /* PanoramaMetadata.swift */,
+				100000000000000000000107 /* PanoramaStitcher.swift */,
+				100000000000000000000108 /* ContentView.swift */,
+				100000000000000000000109 /* Info.plist */,
+				100000000000000000000110 /* Assets.xcassets */,
 			);
 			name = Simple360Camera;
-			path = ..;
+			path = Simple360Camera;
 			sourceTree = "<group>";
 		};
-		A000040003 /* Products */ = {
+		100000000000000000000403 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A000020011 /* Simple360Camera.app */,
+				100000000000000000000111 /* Simple360Camera.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -80,13 +80,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A000050001 /* Simple360Camera */ = {
+		100000000000000000000501 /* Simple360Camera */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A000060002 /* Build configuration list for PBXNativeTarget "Simple360Camera" */;
+			buildConfigurationList = 100000000000000000000602 /* Build configuration list for PBXNativeTarget "Simple360Camera" */;
 			buildPhases = (
-				A000030001 /* Sources */,
-				A000030002 /* Resources */,
-				A000030003 /* Frameworks */,
+				100000000000000000000201 /* Sources */,
+				100000000000000000000202 /* Resources */,
+				100000000000000000000301 /* Frameworks */,
 			);
 			buildRules = (
 			);
@@ -94,72 +94,72 @@
 			);
 			name = Simple360Camera;
 			productName = Simple360Camera;
-			productReference = A000020011 /* Simple360Camera.app */;
+			productReference = 100000000000000000000111 /* Simple360Camera.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A000050002 /* Project object */ = {
+		100000000000000000000502 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1600;
-				LastUpgradeCheck = 1600;
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
 				TargetAttributes = {
-					A000050001 = {
-						CreatedOnToolsVersion = 16.0;
+					100000000000000000000501 = {
+						CreatedOnToolsVersion = 2600;
 					};
 				};
 			};
-			buildConfigurationList = A000060001 /* Build configuration list for PBXProject "Simple360Camera" */;
-			compatibilityVersion = "Xcode 14.0";
+			buildConfigurationList = 100000000000000000000601 /* Build configuration list for PBXProject "Simple360Camera" */;
+			compatibilityVersion = "Xcode 16.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = A000040001;
-			productRefGroup = A000040003 /* Products */;
+			mainGroup = 100000000000000000000401;
+			productRefGroup = 100000000000000000000403 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A000050001 /* Simple360Camera */,
+				100000000000000000000501 /* Simple360Camera */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A000030002 /* Resources */ = {
+		100000000000000000000202 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A000010009 /* Assets.xcassets in Resources */,
+				100000000000000000000009 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A000030001 /* Sources */ = {
+		100000000000000000000201 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A000010001 /* Simple360CameraApp.swift in Sources */,
-				A000010002 /* CaptureModel.swift in Sources */,
-				A000010003 /* CameraService.swift in Sources */,
-				A000010004 /* CameraPreview.swift in Sources */,
-				A000010005 /* MotionGuide.swift in Sources */,
-				A000010006 /* PanoramaStitcher.swift in Sources */,
-				A000010007 /* PanoramaMetadata.swift in Sources */,
-				A000010008 /* ContentView.swift in Sources */,
+				100000000000000000000001 /* Simple360CameraApp.swift in Sources */,
+				100000000000000000000002 /* CaptureModel.swift in Sources */,
+				100000000000000000000003 /* CameraService.swift in Sources */,
+				100000000000000000000004 /* CameraPreview.swift in Sources */,
+				100000000000000000000005 /* MotionGuide.swift in Sources */,
+				100000000000000000000006 /* PanoramaMetadata.swift in Sources */,
+				100000000000000000000007 /* PanoramaStitcher.swift in Sources */,
+				100000000000000000000008 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A000070001 /* Debug */ = {
+		100000000000000000000701 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -171,7 +171,7 @@
 			};
 			name = Debug;
 		};
-		A000070002 /* Release */ = {
+		100000000000000000000702 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -184,7 +184,7 @@
 			};
 			name = Release;
 		};
-		A000070003 /* Debug */ = {
+		100000000000000000000703 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -192,7 +192,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = ../Info.plist;
+				INFOPLIST_FILE = Simple360Camera/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -203,13 +203,13 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				SUPPORTED_PLATFORMS = iphoneos iphonesimulator;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		A000070004 /* Release */ = {
+		100000000000000000000704 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -217,7 +217,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = ../Info.plist;
+				INFOPLIST_FILE = Simple360Camera/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -228,7 +228,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				SUPPORTED_PLATFORMS = iphoneos iphonesimulator;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -237,25 +237,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A000060001 /* Build configuration list for PBXProject "Simple360Camera" */ = {
+		100000000000000000000601 /* Build configuration list for PBXProject "Simple360Camera" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A000070001 /* Debug */,
-				A000070002 /* Release */,
+				100000000000000000000701 /* Debug */,
+				100000000000000000000702 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A000060002 /* Build configuration list for PBXNativeTarget "Simple360Camera" */ = {
+		100000000000000000000602 /* Build configuration list for PBXNativeTarget "Simple360Camera" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A000070003 /* Debug */,
-				A000070004 /* Release */,
+				100000000000000000000703 /* Debug */,
+				100000000000000000000704 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A000050002 /* Project object */;
+	rootObject = 100000000000000000000502 /* Project object */;
 }
